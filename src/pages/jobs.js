@@ -9,7 +9,7 @@ import Jobs from "../components/sections/jobs"
 
 const AboutPage = () => (
   <Layout>
-    <SEO title="About" />
+    <SEO title="Jobs" />
     <Navigation />
     <Jobs />
     <Footer />
