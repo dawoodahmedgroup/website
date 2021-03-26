@@ -6,7 +6,7 @@ import { Container, Section } from "../global"
 const GetStarted = () => (
   <StyledSection>
     <GetStartedContainer>
-      <GetStartedTitle>$9.99 An App. Native Apps Cost $12.99.</GetStartedTitle>
+      <GetStartedTitle>Mobile And Web Apps Start At $7.99, Desktop Apps Start From $9.99.</GetStartedTitle>
       <TryItButton>Get Started</TryItButton>
       <Subtitle>Pay once the app is done, ask for any changes you want.</Subtitle>
     </GetStartedContainer>

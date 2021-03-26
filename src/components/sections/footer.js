@@ -18,14 +18,14 @@ const Footer = () => (
         <span>Contact Us</span>
         <ul>
           <li><a href="http://dawoodahmed.com/contact-us/">Fill in the form on our main site</a></li>
-          <li>Blog (Coming Soon)</li>
+          <li><a href="mailto:dawoodsoft@dawoodahmed.com">Email Us</a></li>
         </ul>
       </FooterColumn>
       <FooterColumn>
         <span>Company</span>
         <ul>
           <li><a href="/about/">About Us</a></li>
-          <li><a href="/">Jobs (Coming Soon)</a></li>
+          <li><a href="/jobs/">Jobs</a></li>
           <li><a href="/">Home</a></li>
         </ul>
       </FooterColumn>
