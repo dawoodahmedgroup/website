@@ -4,13 +4,15 @@ import styled from "styled-components"
 import { Container, Section } from "../global"
 
 const GetStarted = () => (
-  <StyledSection>
-    <GetStartedContainer>
-      <GetStartedTitle>Mobile And Web Apps Start At $7.99, Desktop Apps Start From $9.99.</GetStartedTitle>
-      <TryItButton>Get Started</TryItButton>
-      <Subtitle>Pay once the app is done, ask for any changes you want.</Subtitle>
-    </GetStartedContainer>
-  </StyledSection>
+  <Section id="pricing">
+    <StyledSection>
+      <GetStartedContainer>
+        <GetStartedTitle>Mobile And Web Apps Start At $7.99, Desktop Apps Start From $9.99.</GetStartedTitle>
+        <TryItButton>Get Started</TryItButton>
+        <Subtitle>Pay once the app is done, ask for any changes you want.</Subtitle>
+      </GetStartedContainer>
+    </StyledSection>
+  </Section>
 )
 
 export default GetStarted

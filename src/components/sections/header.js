@@ -23,7 +23,7 @@ const Header = () => {
   }
 
   return (
-    <HeaderWrapper id="top">
+    <HeaderWrapper id="home">
       <Container>
         <Flex>
           <HeaderTextGroup>
