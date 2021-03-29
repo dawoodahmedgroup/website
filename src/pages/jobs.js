@@ -7,7 +7,7 @@ import Navigation from "../components/common/navigation/navigation"
 import Footer from "../components/sections/footer"
 import Jobs from "../components/sections/jobs"
 
-const AboutPage = () => (
+const JobsPage = () => (
   <Layout>
     <SEO title="Jobs" />
     <Navigation />
@@ -16,4 +16,4 @@ const AboutPage = () => (
   </Layout>
 )
 
-export default AboutPage
+export default JobsPage
