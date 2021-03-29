@@ -29,7 +29,7 @@ const Jobs = () => {
           <HeaderTextGroup>
             <Subtitle>Dawood Softwares</Subtitle>
             <h1>
-              Hi! I'm extremely sorry, but we have no jobs available at the moment.
+              Hi! We've got no jobs at the time. Sorry!
             </h1>
           </HeaderTextGroup>
           <ImageWrapper>
