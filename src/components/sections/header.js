@@ -36,8 +36,8 @@ const Header = () => {
             <h2>
               We develop native apps, web apps and pretty much everything for your buisness.
             </h2>
-            <HeaderForm onSubmit={handleSubmit}>
-              <HeaderInput placeholder="Your email" />
+            <HeaderForm action="https://formspree.io/f/mayawrpl" method="POST">
+              <HeaderInput name="emailform" placeholder="Your email" required />
               <HeaderButton>Get Started</HeaderButton>
             </HeaderForm>
             <FormSubtitle>
