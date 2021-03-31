@@ -7,11 +7,10 @@ const Footer = () => (
   <FooterWrapper id="footer">
     <FooterColumnContainer>
       <FooterColumn>
-        <span>Apps</span>
+        <span>Our Companies</span>
         <ul>
-          <li><a href="https://en.wikipedia.org/wiki/Mobile_app">Mobile Apps</a></li>
-          <li><a href="https://en.wikipedia.org/wiki/Desktop_application">Desktop Apps</a></li>
-          <li><a href="https://en.wikipedia.org/wiki/Web_application">Web Apps</a></li>
+          <li><a href="http://dawooddates.com">Dawood Dates</a></li>
+          <li><a href="http://dawoodahmed.com">Dawood Ahmed & Co.</a></li>
         </ul>
       </FooterColumn>
       <FooterColumn>
@@ -22,7 +21,7 @@ const Footer = () => (
         </ul>
       </FooterColumn>
       <FooterColumn>
-        <span>Company</span>
+        <span>Sitemap</span>
         <ul>
           <li><a href="/about/">About Us</a></li>
           <li><a href="/jobs/">Jobs</a></li>
@@ -33,12 +32,8 @@ const Footer = () => (
         <span>Social</span>
         <ul>
           <li><a href="https://github.com/dawoodahmedgroup">GitHub</a></li>
-        </ul>
-      </FooterColumn>
-      <FooterColumn>
-        <span>SRC Code</span>
-        <ul>
-          <li><a href="https://github.com/dawoodahmedgroup/website">Website</a></li>
+          <li><a href="https://www.facebook.com/dawooddate">Facebook</a></li>
+          <li><a href="https://www.instagram.com/dawooddates/">Instagram</a></li>
         </ul>
       </FooterColumn>
     </FooterColumnContainer>
