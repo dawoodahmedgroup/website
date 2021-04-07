@@ -36,7 +36,7 @@ const Header = () => {
             <h2>
               We develop native apps, web apps and pretty much everything for your buisness.
             </h2>
-            <HeaderForm action="https://formspree.io/f/mayawrpl" method="POST">
+            <HeaderForm netlify>
               <HeaderInput name="emailform" placeholder="Your email" required />
               <HeaderButton>Get Started</HeaderButton>
             </HeaderForm>
