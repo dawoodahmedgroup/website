@@ -36,8 +36,8 @@ const Header = () => {
             <h2>
               We develop native apps, web apps and pretty much everything for your buisness.
             </h2>
-            <HeaderForm name="email-form-getstarted" data-netlify="true">
-              <HeaderInput type="email" placeholder="Your email" required/>
+            <HeaderForm name="email-form" data-netlify="true">
+              <HeaderInput placeholder="Your email" required/>
               <HeaderButton>Get Started</HeaderButton>
             </HeaderForm>
             <FormSubtitle>
