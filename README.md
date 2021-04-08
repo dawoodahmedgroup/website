@@ -5,8 +5,9 @@ These are the following:
 <br>
 1: Dawood Ahmed & Co. — [http://dawoodahmed.com/](http://dawoodahmed.com/)
 <br>
-2: Dawood Softwares — [https://dawoodsoft.com](https://dawoodsoft.com)
+2: Dawood Softwares — [https://dawoodsoft.com/](https://dawoodsoft.com)
 <br>
+3: Dawood Dates — [https://dawooddates.com/](https://dawooddates.com)
 
 ## What Is This Organization On GitHub For?
 This organization on github is to store all the apps we have made for people, this will be storing all the apps we have made as Dawood Softwares.
