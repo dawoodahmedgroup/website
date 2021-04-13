@@ -1,0 +1,13 @@
+name: Greetings
+
+on: [pull_request, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: 'Welcoe to your first issue, please make sure that there is no other issue saying the same thing, if you can fix it, then please make a PR with the solution and link it in the issue!'
+        pr-message: 'Welcome to your first PR, if you do not want it to be merged right away then please make sure you edit the name and put "WIP:" before the name.'
